@@ -1,0 +1,43 @@
+
+	body {
+		width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 0;
+	}
+	#title {
+		font-family: "Georgia", serif;
+		font-size: 200%;
+	}
+	p {
+		font-family: "Georgia", serif;
+		border-color: FireBrick;
+		border-style: inset;
+		border-radius: 25px;
+		text-align: center;
+		padding: 10px;
+	}
+	div {
+		font-family: "Georgia", serif;
+		border-color: FireBrick;
+		border-style: inset;
+		border-radius: 25px;
+		text-align: center;
+		padding: 10px;
+		margin: 10px;
+	}
+	form {
+		font-family: "Georgia", serif;
+		border-color: FireBrick;
+		border-style: inset;
+		border-radius: 25px;
+		text-align: center;
+		padding: 10px;
+		margin: 10px;
+	}
+	label {
+		display: inline-block;
+	}
+	input {
+		margin: 5px;
+	}
