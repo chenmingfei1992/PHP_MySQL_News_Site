@@ -1,0 +1,8 @@
+
+
+PHP-MySQL News System                                 						            Jan 2015
+•	Implemented a php-mysql based news website that allow multiple users to post, edit, comment and delete news.
+
+Link to instance:
+http://ec2-54-175-101-121.compute-1.amazonaws.com/story/preLogin.php
+
